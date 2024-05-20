@@ -1,0 +1,40 @@
+{
+  "name": "flowershop",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-navigation/bottom-tabs": "^6.5.20",
+    "@react-navigation/native": "^6.1.17",
+    "@react-navigation/native-stack": "^6.9.26",
+    "AsyncStorage": "^0.1.5",
+    "deprecated-react-native-prop-types": "^5.0.0",
+    "expo": "^50.0.0",
+    "expo-asset": "~9.0.2",
+    "expo-file-system": "~16.0.9",
+    "expo-image-picker": "^15.0.4",
+    "expo-sqlite": "~13.4.0",
+    "expo-status-bar": "~1.11.1",
+    "loadsh": "^0.0.4",
+    "moment": "^2.30.1",
+    "react": "18.2.0",
+    "react-native": "0.73.6",
+    "react-native-chart-kit": "^6.12.0",
+    "react-native-paper": "^5.12.3",
+    "react-native-safe-area-context": "4.8.2",
+    "react-native-sqlite-storage": "^6.0.1",
+    "react-native-uuid": "^2.0.2",
+    "react-native-vector-icons": "^10.1.0",
+    "sqlite3": "^5.1.7"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
